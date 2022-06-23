@@ -1,0 +1,31 @@
+{
+  "productList": [
+    {
+      "productName": "Samsung S21",
+      "category": "Smartphone",
+      "freshness": "Brand New",
+      "price": 2500,
+      "comment": "This is a new product",
+      "date": "2022-06-14T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Iphone 14",
+      "category": "Smartphone",
+      "freshness": "Brand New",
+      "price": 3500,
+      "comment": "This is a new Smartphone",
+      "date": "2022-06-13T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Iphone 11",
+      "category": "Smartphone",
+      "freshness": "Brand New",
+      "price": 123,
+      "comment": "Investimento",
+      "date": "2022-06-14T03:00:00.000Z",
+      "id": 3
+    }
+  ]
+}
